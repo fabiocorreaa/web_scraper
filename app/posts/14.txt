@@ -1,0 +1,3 @@
+Company name: GeminiSolutions
+Required skills: python,mobile,docker,django,git,linux,api
+More info: https://www.timesjobs.com/job-detail/python-finance-gemini-solutions-gurgaon-5-to-8-yrs-jobid-SmdxphEtGs5zpSvf__PLUS__uAgZw==&source=srp
